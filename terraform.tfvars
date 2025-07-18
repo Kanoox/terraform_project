@@ -1,0 +1,5 @@
+location             = "France Central"
+vm_admin_username    = "florentin"
+vm_admin_password    = "Florentin75"
+vm_name              = "florentinproject"
+storage_account_name = "flaskstorage2025"
