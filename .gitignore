@@ -7,3 +7,5 @@
 *.tfstate
 *.tfstate.backup
 .env
+terraform.tfstate
+terraform.tfstate.backup
