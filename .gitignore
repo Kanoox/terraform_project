@@ -1,9 +1,4 @@
 .terraform/
-.terraform/
-*.tfstate
-*.tfstate.backup
-.env
-.terraform/
 *.tfstate
 *.tfstate.backup
 .env
